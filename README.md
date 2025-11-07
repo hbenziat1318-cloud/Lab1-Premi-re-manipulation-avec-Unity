@@ -17,7 +17,7 @@ Un jeu simple développé avec Unity où le joueur contrôle une sphère pour co
 ### Étapes d'installation
 1. Cloner le repository :
 ```bash
-git clone []
+git clone [https://github.com/hbenziat1318-cloud/Lab1-Premi-re-manipulation-avec-Unity.git]
 ```
 
 2. Ouvrir le projet dans Unity Hub
@@ -72,3 +72,4 @@ https://github.com/user-attachments/assets/701a4aeb-190f-4b3c-b84c-038c62589195
 ---
 
 *Ce projet a été développé dans le cadre d'un apprentissage Unity et des concepts de programmation de jeux vidéo.*
+
